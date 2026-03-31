@@ -38,6 +38,9 @@ Admin Panel
 - Stores menu details
 - Saves user reviews directly into the database
 - Enables dynamic interaction between frontend and backend
+- Demo video:
+- watch the project here:
+- https://youtube.com/shorts/ys3kZq_AI-c?si=Akujn_Wk2YtauE1I
 
 
 ---
